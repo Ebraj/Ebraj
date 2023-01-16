@@ -6,15 +6,15 @@
 
 - 🔭 I’m currently working on **Frontend Development.**
 
-- 🌱 I’m currently learning **React JS.**
+- 🌱 I’m currently learning **JavaScript Advanced Stuffs...**
 
-- 💬 Ask me about **Javascript,React and frontend Stuffs.**
+- 💬 Ask me about **CSS stuffs, Javascript, React, Next and other frontend tools.**
 
 - 📫 How to reach me [Twitter](https://twitter.com/ebraj_g) |
 [Instagram](https://www.instagram.com/_anizh_g/) |
 [LinkedIn](https://www.linkedin.com/in/ebrajgrg/)
 
-- ⚡ Fun fact **Everything about me is no less than the fun fact.**
+- ⚡ Fun fact **I am still trying to figure out what is the fun fact present in me.**
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ebraj&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ebraj's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ebraj&theme=vue)](https://github.com/ebraj)
 
