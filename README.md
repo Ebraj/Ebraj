@@ -7,6 +7,7 @@
 </h1>
 
 <h5 align="center">
+  <code><a href="https://ebrajgrg.vercel.app/" title="Website Profile"><img width="22" src="images/website.svg"> Website</a></code>
   <code><a href="https://www.linkedin.com/in/ebrajgrg/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/_anizh_g/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
@@ -17,7 +18,7 @@
 
 - 🔭 I’m currently working on **Frontend Development.**
 
-- 🌱 I’m currently learning **JavaScript Advanced Stuffs...**
+- 🌱 I’m currently learning **JavaScript Advanced Stuffs - TS**
 
 - 💬 Ask me about **CSS stuffs, Javascript, React, Next and other frontend tools.**
 
@@ -52,7 +53,7 @@
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <!-- <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code> -->
   <!-- <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code> -->
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
+  <!-- <code><img title="Java" height="25" src="images/java-original.svg"></code> -->
   <code><img title="JSON" height="25" src="images/json.svg"></code>
   <!-- <code><img title="Unity" height="25" src="images/unity3d.svg"></code> -->
   <!-- <code><img title="Android" height="25" src="images/android.svg"></code> -->
