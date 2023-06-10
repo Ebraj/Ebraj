@@ -28,8 +28,6 @@
 
 - ⚡ Fun fact **I am still trying to figure out what is the fun fact present in me.**
 
-[![Ebraj's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ebraj&theme=vue)](https://github.com/ebraj)
-
 <h2 align="center">Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
